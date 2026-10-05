@@ -4,7 +4,7 @@
  */
 
 // ⚠️ توکن ربات رو اینجا بذار
-define('BOT_TOKEN', 'YOUR_BOT_TOKEN_HERE');
+define('BOT_TOKEN', '8962130348:AAHigtgaPaOdMU-vZJfUXCwrutDDR_9EN14');
 
 // آدرس Sky API روی InfinityFree
 define('SKY_API_URL', 'https://openvex.xo.je/sky/v1/ask.php');
